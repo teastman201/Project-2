@@ -2,33 +2,26 @@ Title
 Doctors Connect GitHub license
 
 Developer:
-Jesse Ziros
+Tristan Eastman
 
 Description
-This project is designed to be able to give medical professionals the ability to connect with others to be able to get second opinions on diagnosis
+This project is intended to provide medical professionals the ability to connect with other medical professional to easily obtain diagnosis second opinions.
 
-Table
-Installation
-Usage
-Questions
-Contributing
-License
-Test
-Installation
-MySQL database, Sequelize, Node.js, css, sassy(a npm design package), travis.yml, .eslintrc.json
+Technologies Used:
+MySQL database, Sequelize, Node.js, CSS, and Sassy.
 
 Usage
-When you load the application it will take you to the homescreen giving some information about the benefits of the site and what it will do. Then you will proceed to a sign up screen where you will input your information for your account. Once completed it will give you a confirmation that your account was created, and give you a link to the search function of the application. When you use the search function it will append results from the database into a table of all applicable possibilities to your search criteria. Once the desired professional is found you will be given a way to contact them. Once contacted you can save your appointment within the app. You will travel to the appointment.html and put in the required information to create an appointment reminder. All appointments will be appended into a table underneath with input field. When finished with the app you can logout and you will be brang back to the homescreen.
+Upon loading of the application the user is taken to the landing page which gives some overview information regarding the benefits and usage of the application. The user may then proceed to sign up via the provided link where the user will input their data to create an account. Once completed the application will provided confirmation that an account was created then transfer the user to the search area of the application. When a user searches for a particular profession or specific doctor the results are pulled from the database and appended as a table. Once the desired professional is found, the user is provided a method to contact their desired professional. Once contacted the user may save the appointment within the app. The application will navagite to another area for the user to enter desired information to create an appointment reminder. Appointments are appended to a table displayed below the input field. Upon completion of utilizing the application, the user may logout and will be returned to the landing page.
 
 Questions
 If you have any questions contact me at:
 
-jtziros2020@gmail.com
+teastman85@gmail.com
 
-*[Github Username] jesseziros
+*[Github Username] teastman201
 
 Contributing
-Taylor Edwards, Tristan Eastman
+Taylor Edwards, Jesse Ziros
 
 License
 MIT
